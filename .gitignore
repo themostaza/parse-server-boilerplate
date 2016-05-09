@@ -1,0 +1,17 @@
+# node.js
+node_modules/
+npm-debug.log
+
+# vscode
+.vscode
+tsconfig.json
+
+# nyc
+.nyc_output
+coverage
+
+# winston
+logs
+
+# dotenv
+.env
